@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b45f39ab.css",
-    "main.js": "/portfolio/static/js/main.50c72975.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ferret.png": "/portfolio/static/media/ferret.d888303d248b7711f1c2.png",
-    "static/media/aws.png": "/portfolio/static/media/aws.1d12dac553d9b80656ec.png",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/portfolio/index.html",
-    "main.b45f39ab.css.map": "/portfolio/static/css/main.b45f39ab.css.map",
-    "main.50c72975.js.map": "/portfolio/static/js/main.50c72975.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "https://feralferret224.github.io/portfolio/static/css/main.b45f39ab.css",
+    "main.js": "https://feralferret224.github.io/portfolio/static/js/main.5bb0862e.js",
+    "static/js/787.1ed0c42c.chunk.js": "https://feralferret224.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ferret.png": "https://feralferret224.github.io/portfolio/static/media/ferret.d888303d248b7711f1c2.png",
+    "static/media/aws.png": "https://feralferret224.github.io/portfolio/static/media/aws.1d12dac553d9b80656ec.png",
+    "static/media/logo.svg": "https://feralferret224.github.io/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://feralferret224.github.io/portfolio/index.html",
+    "main.b45f39ab.css.map": "https://feralferret224.github.io/portfolio/static/css/main.b45f39ab.css.map",
+    "main.5bb0862e.js.map": "https://feralferret224.github.io/portfolio/static/js/main.5bb0862e.js.map",
+    "787.1ed0c42c.chunk.js.map": "https://feralferret224.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b45f39ab.css",
-    "static/js/main.50c72975.js"
+    "static/js/main.5bb0862e.js"
   ]
 }
